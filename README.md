@@ -1,5 +1,8 @@
 # Footcap - Find Your Footwear
 
+➡[View live site]](https://footcap-e-commerce-website.vercel.app/)
+
+
 ## Project Overview
 
 Footcap is a responsive e-commerce website homepage designed for showcasing and selling footwear products. The site features a modern and clean design with multiple sections including hero banner, product collections, bestsellers, special offers, services, Instagram posts, and a footer with contact and account information.
